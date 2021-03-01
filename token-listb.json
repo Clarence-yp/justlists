@@ -1,0 +1,18 @@
+{
+	"name": "Star Chain List",
+	"tokens": [{
+		"symbol": "CDEX",
+		"address": "TU8VS7r9AhCehbrryb597y6aAnSiknhahx",
+		"chainId": 1,
+		"decimals": 7,
+		"name": "ChenDuEcchange",
+		"logoURI": "https://coin.top/production/logo/SUNLogo.178d4636.png"
+	}],
+	"logoURI": "https://justswap.io/favicon.ico",
+	"version": {
+		"patch": 1,
+		"major": 1,
+		"minor": 0
+	},
+	"timestamp": 1611147166000
+}
